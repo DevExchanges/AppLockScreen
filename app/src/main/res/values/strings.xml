@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Lock Screen</string>
+    <string name="pass">Password</string>
+    <string name="re_pass">Re-type Password</string>
+    <string name="go">Go to Main Screen</string>
+    <string name="content">This is an app Example Screen, you must enter password in Lock Screen to pass here.</string>
+    <string name="change">Change Password</string>
+</resources>
